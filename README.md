@@ -5,7 +5,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 600px; height: 200px;" colspan="2">[Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model
-            <a href="[https://example.com](https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb)">[Code]</a>
+            <a href="https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb">[Code]</a>
             </td>
     </tr>
     <tr>
