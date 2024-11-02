@@ -9,7 +9,8 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Mass-Spring System" style="width: 100%; height: auto;"/>
         </td>
         <td style="width: 400px;">
-            A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.
+            A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.<br>
+            ไปป์ไลน์สอนการเทรนโมเดล BLIP-2 สำหรับทำ AI บรรยายภาพภาษาไทย สอนตัดต่อโมเดล เอาโมเดลภาษาไทยมาใส่ พร้อมคำอธิบายเบื้องต้น สามารถนำไปใช้ต่อได้แต่ต้องปรับค่าต่าง ๆ ตามความเหมาะสม 
         </td>
     </tr>
 </table>
