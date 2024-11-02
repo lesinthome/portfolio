@@ -7,5 +7,13 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 |<img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" width="200" /> | This is the text that goes beside the image. You can describe the image or provide additional information here. |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 [Reinforcement Learning] Implementation of Temporal Difference Q-learning [Code](https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb)<br>
-| <img src="https://github.com/lesinthome/portfolio/blob/main/frozen_lake.png" alt="Frozen Lake" width="200"/> | This is the text that goes beside the image. You can describe the image or provide additional information here. |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+<table>
+    <tr>
+        <td style="width: 200px;">
+          <img src="https://github.com/lesinthome/portfolio/blob/main/frozen_lake.png" alt="Frozen Lake" width="200"/>
+        </td>
+        <td style="width: 400px;">
+            This is the text that goes beside the image. You can describe the image or provide additional information here.
+        </td>
+    </tr>
+</table>
