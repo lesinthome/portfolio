@@ -6,7 +6,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table>
     <tr>
         <td style="width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Mass-Spring System" style="max-width: 200px; height: auto;"/>
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Mass-Spring System" style="max-width: 100px; height: auto;"/>
         </td>
         <td style="width: 400px;">
             A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.<br>
@@ -20,7 +20,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 200px; height: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="max-width: 200px; height: auto;"/>
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="max-width: 100px; height: auto;"/>
         </td>
         <td style="width: 400px; height: 200px;">
             My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
