@@ -18,7 +18,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
             ไปป์ไลน์สอนการเทรนโมเดล BLIP-2 สำหรับทำ AI บรรยายภาพภาษาไทย สอนตัดต่อโมเดล เอาโมเดลภาษาไทยมาใส่ พร้อมคำอธิบายเบื้องต้น สามารถนำไปใช้ต่อได้แต่ต้องปรับค่าต่าง ๆ ตามความเหมาะสม </td>
     </tr>
 </table>
-
+<br>
 <table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 600px; height: 200px;" colspan="2">[Mathematical Modeling] Solving Differential Equation with Neural Network 
@@ -36,12 +36,16 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
         </td>
     </tr>
 </table>
-
-[Mathematical Modeling] Solving Differential Equation with Neural Network [Code](https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb)<br>
+<br>
 <table style="table-layout: fixed; width: 600px;">
     <tr>
+        <td style="width: 600px; height: 200px;" colspan="2">[Reinforcement Learning] Implementation of Temporal Difference Q-learning 
+            <a href="https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb">[Code]</a>
+            </td>
+    </tr>
+    <tr>
         <td style="width: 100px; height: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 500px; height: 200px;"/>
+            <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 500px; height: 200px;"/>
         </td>
         <td style="width: 500px; height: 200px;">
             My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
@@ -50,6 +54,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
         </td>
     </tr>
 </table>
+
 
 [Reinforcement Learning] Implementation of Temporal Difference Q-learning [Code](https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb)<br>
 <table style="table-layout: fixed; width: 600px;">
