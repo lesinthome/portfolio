@@ -44,7 +44,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
             </td>
     </tr>
     <tr>
-        <td style="width: 100px; height: 200px;">
+        <td style="width: 500px; height: 200px;">
             <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="max-width: 500px; height: 200px;"/>
         </td>
         <td style="width: 500px; height: 200px;">
