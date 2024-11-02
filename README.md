@@ -4,7 +4,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 
 <table style="table-layout: fixed; width: 600px;">
     <tr>
-        <td style="width: 600px; height: 200px;" colspan="2">[Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model
+        <td style="width: 600px; height: 200px;" colspan="2">[Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model 
             <a href="https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb">[Code]</a>
             </td>
     </tr>
@@ -19,17 +19,20 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
     </tr>
 </table>
 
-
-[Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model [Code](https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb)<br>
-<table>
+<table style="table-layout: fixed; width: 600px;">
     <tr>
-        <td style="width: 100px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Image-to-Text task" style="width: 500px; height: 200px;"/>
+        <td style="width: 600px; height: 200px;" colspan="2">[Mathematical Modeling] Solving Differential Equation with Neural Network 
+            <a href="https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb">[Code]</a>
+            </td>
+    </tr>
+    <tr>
+        <td style="width: 100px; height: 200px;">
+            <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Image-to-Text task" style="width: 500px; height: 200px;"/>
         </td>
-        <td style="width: 500px;">
-            A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.<br>
+        <td style="width: 500px; height: 200px;">
+            My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
             <br>
-            ไปป์ไลน์สอนการเทรนโมเดล BLIP-2 สำหรับทำ AI บรรยายภาพภาษาไทย สอนตัดต่อโมเดล เอาโมเดลภาษาไทยมาใส่ พร้อมคำอธิบายเบื้องต้น สามารถนำไปใช้ต่อได้แต่ต้องปรับค่าต่าง ๆ ตามความเหมาะสม 
+            งานไฟนอลโปรเจคจากภาควิชาฟิสิกส์ (แล็บฟิสิกส์เชิงคำนวณ) เป็นการนำ Neural Networks มาใช้แก้สมการอนุพันธ์ โดยเลือกระบบมวลติดสปริงเป็นตัวอย่าง
         </td>
     </tr>
 </table>
