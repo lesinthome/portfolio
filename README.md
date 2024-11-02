@@ -19,10 +19,10 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 [Mathematical Modeling] Solving Differential Equation with Neural Network [Code](https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb)<br>
 <table style="table-layout: fixed; width: 600px;">
     <tr>
-        <td style="table-layout: fixed; width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 45%; height: auto;"/>
+        <td style="width: 200px; height: 200px;">
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 100%; height: auto;"/>
         </td>
-        <td style="table-layout: fixed; width: 400px;">
+        <td style="width: 400px; height: 200px;">
             My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
             <br>
             งานไฟนอลโปรเจคจากภาควิชาฟิสิกส์ (แล็บฟิสิกส์เชิงคำนวณ) เป็นการนำ Neural Networks มาใช้แก้สมการอนุพันธ์ โดยเลือกระบบมวลติดสปริงเป็นตัวอย่าง
