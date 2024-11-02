@@ -5,7 +5,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 [Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model [Code](https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb)<br>
 <table>
     <tr>
-        <td style="width: 200px;">
+        <td style="width: 100px;">
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Mass-Spring System" style="max-width: 100px; height: auto;"/>
         </td>
         <td style="width: 400px;">
@@ -19,7 +19,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 [Mathematical Modeling] Solving Differential Equation with Neural Network [Code](https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb)<br>
 <table style="table-layout: fixed; width: 600px;">
     <tr>
-        <td style="width: 200px; height: 200px;">
+        <td style="width: 100px; height: 200px;">
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="max-width: 100px; height: auto;"/>
         </td>
         <td style="width: 400px; height: 200px;">
