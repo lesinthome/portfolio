@@ -17,7 +17,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 </table>
 
 [Mathematical Modeling] Solving Differential Equation with Neural Network [Code](https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb)<br>
-<table>
+<table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 200px;">
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 45%; height: auto;"/>
@@ -31,7 +31,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 </table>
 
 [Reinforcement Learning] Implementation of Temporal Difference Q-learning [Code](https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb)<br>
-<table>
+<table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 200px;">
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 100%; height: auto;"/>
