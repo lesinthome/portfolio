@@ -48,9 +48,9 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
             <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 500px; height: 200px;"/>
         </td>
         <td style="width: 500px; height: 200px;">
-            My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
+            My tutorial on how to implement a reinforcement learning algorithm, temporal difference Q-learning, where I use the Frozen Lake environment on Gymnasium as a showcase. This notebook works best when coupled with my tutorial video on YouTube; however, it’s explained in Thai.<br>
             <br>
-            งานไฟนอลโปรเจคจากภาควิชาฟิสิกส์ (แล็บฟิสิกส์เชิงคำนวณ) เป็นการนำ Neural Networks มาใช้แก้สมการอนุพันธ์ โดยเลือกระบบมวลติดสปริงเป็นตัวอย่าง
+            สอน coding from scratch วิธีการสร้าง AI เล่นเกมด้วย Temporal Difference Q-learning สามารถเข้าไปฟังคลิปสอนของผมใน <a href="https://www.youtube.com/watch?v=vDDucTB6mig">Youtube Video</a> ได้ ซึ่งจะอธิบายคอนเซปท์ของตัวเทคนิคนี้ 
         </td>
     </tr>
 </table>
