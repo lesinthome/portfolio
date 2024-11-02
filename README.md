@@ -20,7 +20,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table>
     <tr>
         <td style="width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 50%; height: auto;"/>
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 45%; height: auto;"/>
         </td>
         <td style="width: 400px;">
             My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
