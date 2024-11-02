@@ -54,27 +54,3 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
         </td>
     </tr>
 </table>
-
-
-[Reinforcement Learning] Implementation of Temporal Difference Q-learning [Code](https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb)<br>
-<table style="table-layout: fixed; width: 600px;">
-    <tr>
-        <td style="width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 100%; height: auto;"/>
-        </td>
-        <td style="width: 400px;">
-            This is the text that goes beside the image. You can describe the image or provide additional information here.
-        </td>
-    </tr>
-</table>
-
-<table style="table-layout: fixed; width: 600px;">
-    <tr>
-        <td style="width: 600px; height: 200px;" colspan="3">Cell 1</td>
-    </tr>
-    <tr>
-        <td style="width: 200px; height: 200px;">Cell 4</td>
-        <td style="width: 200px; height: 200px;">Cell 5</td>
-        <td style="width: 200px; height: 200px;">Cell 6</td>
-    </tr>
-</table>
