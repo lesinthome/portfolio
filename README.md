@@ -20,12 +20,12 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table>
     <tr>
         <td style="width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" width="200" />
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/mass_spring.png" alt="Mass-Spring System" style="width: 100%; height: auto;"/>
         </td>
         <td style="width: 400px;">
             My final project at the computational physics lab. Rather than using neural networks for tasks like regression or classification, here I explore their capability for function approximation. The target is the differential equation of a mass-spring system.<br>
             <br>
-            งานไฟนอลโปรเจคจากภาควิชาฟิสิกส์ แล็บฟิสิกส์เชิงคำนวณ เป็นการนำ Neural Networks มาใช้แก้สมการอนุพันธ์โดยเลือกระบบมวลติดสปริงเป็นตัวอย่าง
+            งานไฟนอลโปรเจคจากภาควิชาฟิสิกส์ (แล็บฟิสิกส์เชิงคำนวณ) เป็นการนำ Neural Networks มาใช้แก้สมการอนุพันธ์ โดยเลือกระบบมวลติดสปริงเป็นตัวอย่าง
         </td>
     </tr>
 </table>
@@ -34,7 +34,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table>
     <tr>
         <td style="width: 200px;">
-          <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" width="200"/>
+          <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 100%; height: auto;"/>
         </td>
         <td style="width: 400px;">
             This is the text that goes beside the image. You can describe the image or provide additional information here.
