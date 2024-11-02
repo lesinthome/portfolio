@@ -1,6 +1,22 @@
 # portfolio
 
-This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science and AI engineering across various fields.
+This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science and AI engineering across various fields.<br>
+
+<table style="table-layout: fixed; width: 600px;">
+    <tr>
+        <td style="width: 600px; height: 200px;" colspan="2">[Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model [Code](https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb)</td>
+    </tr>
+    <tr>
+        <td style="width: 100px; height: 200px;">
+            <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Image-to-Text task" style="width: 500px; height: 200px;"/>
+        </td>
+        <td style="width: 500px; height: 200px;">
+            A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.<br>
+            <br>
+            ไปป์ไลน์สอนการเทรนโมเดล BLIP-2 สำหรับทำ AI บรรยายภาพภาษาไทย สอนตัดต่อโมเดล เอาโมเดลภาษาไทยมาใส่ พร้อมคำอธิบายเบื้องต้น สามารถนำไปใช้ต่อได้แต่ต้องปรับค่าต่าง ๆ ตามความเหมาะสม </td>
+    </tr>
+</table>
+
 
 [Multimodal:Image-to-Text] Pipeline for Fine-Tuning a Thai Language Image Captioning Model [Code](https://github.com/lesinthome/portfolio/blob/main/showcase_blip2_imgcapt4th.ipynb)<br>
 <table>
