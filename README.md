@@ -41,3 +41,16 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
         </td>
     </tr>
 </table>
+
+<table style="table-layout: fixed; width: 600px;">
+    <tr>
+        <td style="width: 200px; height: 200px;">Cell 1</td>
+        <td style="width: 200px; height: 200px;">Cell 2</td>
+        <td style="width: 200px; height: 200px;">Cell 3</td>
+    </tr>
+    <tr>
+        <td style="width: 200px; height: 200px;">Cell 4</td>
+        <td style="width: 200px; height: 200px;">Cell 5</td>
+        <td style="width: 200px; height: 200px;">Cell 6</td>
+    </tr>
+</table>
