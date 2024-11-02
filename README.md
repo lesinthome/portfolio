@@ -9,7 +9,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
           <img src="https://github.com/lesinthome/portfolio/blob/main/images/image_capt.png" alt="Mass-Spring System" width="200" />
         </td>
         <td style="width: 400px;">
-            This is the text that goes beside the image. You can describe the image or provide additional information here.
+            A pipeline for fine-tuning the BLIP-2 model on the task of Thai language image captioning. This is a simple guideline with some explanations. You can try this yourself, but you will need to adjust some configurations for real-world applications.
         </td>
     </tr>
 </table>
