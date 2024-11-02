@@ -55,21 +55,3 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
     </tr>
 </table>
 
-<table style="table-layout: fixed; width: 600px;">
-    <tr>
-        <td style="width: 600px; height: 200px;" colspan="2">
-            [Reinforcement Learning] Implementation of Temporal Difference Q-learning 
-            <a href="https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb">[Code]</a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 300px; height: 200px;">
-            <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" style="width: 100%; height: auto;"/>
-        </td>
-        <td style="width: 300px; height: 200px;">
-            My tutorial on how to implement a reinforcement learning algorithm, temporal difference Q-learning, where I use the Frozen Lake environment on Gymnasium as a showcase. This notebook works best when coupled with my tutorial video on YouTube; however, it’s explained in Thai.<br>
-            <br>
-            สอน coding from scratch วิธีการสร้าง AI เล่นเกมด้วย Temporal Difference Q-learning สามารถเข้าไปฟังคลิปสอนของผมใน <a href="https://www.youtube.com/watch?v=vDDucTB6mig">Youtube Video</a> นี้ได้ ซึ่งจะอธิบายคอนเซปท์ของตัวเทคนิคนี้ 
-        </td>
-    </tr>
-</table>
