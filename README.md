@@ -45,7 +45,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
     </tr>
     <tr>
         <td style="width: 500px; height: 200px;">
-            <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" width="550" height="200"/>
+            <img src="https://github.com/lesinthome/portfolio/blob/main/images/frozen_lake.png" alt="Frozen Lake" width="575" height="200"/>
         </td>
         <td style="width: 500px; height: 200px;">
             My tutorial on how to implement a reinforcement learning algorithm, temporal difference Q-learning, where I use the Frozen Lake environment on Gymnasium as a showcase. This notebook works best when coupled with my tutorial video on YouTube; however, it’s explained in Thai.<br>
