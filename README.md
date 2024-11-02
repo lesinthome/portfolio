@@ -40,7 +40,7 @@ This is Sirawit Khantarak's portfolio, showcasing my projects in Data Science an
 <table style="table-layout: fixed; width: 600px;">
     <tr>
         <td style="width: 600px; height: 200px;" colspan="2">[Reinforcement Learning] Implementation of Temporal Difference Q-learning 
-            <a href="https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb">[Code]</a>
+            <a href="https://github.com/lesinthome/portfolio/blob/main/lagaris_method_pytorch.ipynb](https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb">[Code]</a>
             </td>
     </tr>
     <tr>
