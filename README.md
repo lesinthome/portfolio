@@ -72,36 +72,34 @@ My final project from the Computational Physics Laboratory. Rather than using ne
 
 <br>
 
-<table>
-<tr>
-<td colspan="2">
+<table style="table-layout: fixed; width: 600px;">
+    <tr>
+        <td style="width: 600px;" colspan="2">
+            [Reinforcement Learning] Implementation of Temporal Difference Q-learning
+            <a href="https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb">[Code]</a>
+        </td>
+    </tr>
 
-<strong>[Reinforcement Learning] Implementation of Temporal-Difference Q-Learning</strong>
+    <tr>
+        <td style="width: 300px;">
+            <img 
+                src="https://raw.githubusercontent.com/lesinthome/portfolio/main/images/frozen_lake.png"
+                alt="Frozen Lake"
+                width="300"
+            />
+        </td>
 
-<a href="https://github.com/lesinthome/portfolio/blob/main/frozen_lake_offpolicy_td_qlearning.ipynb">[Code]</a>
+        <td style="width: 300px;">
+            My tutorial on how to implement a reinforcement learning algorithm,
+            temporal difference Q-learning, where I use the Frozen Lake environment
+            on Gymnasium as a showcase. This notebook works best when coupled with
+            my tutorial video on YouTube; however, it’s explained in Thai.
+            <br><br>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/lesinthome/portfolio/main/images/frozen_lake.png"
-     alt="Frozen Lake"
-     width="500">
-
-</td>
-
-<td width="50%">
-
-A tutorial demonstrating how to implement the reinforcement-learning algorithm Temporal-Difference Q-learning from scratch, using the Frozen Lake environment from Gymnasium as an example. The notebook is designed to accompany my YouTube tutorial, which is presented in Thai.
-
-<br><br>
-
-สอน coding from scratch วิธีการสร้าง AI เล่นเกมด้วย Temporal Difference Q-learning สามารถเข้าไปฟังคลิปสอนของผมใน
-<a href="https://www.youtube.com/watch?v=vDDucTB6mig">YouTube Video</a>
-นี้ได้ ซึ่งจะอธิบายคอนเซปต์ของเทคนิคนี้
-
-</td>
-</tr>
+            สอน coding from scratch วิธีการสร้าง AI เล่นเกมด้วย Temporal Difference
+            Q-learning สามารถเข้าไปฟังคลิปสอนของผมใน
+            <a href="https://www.youtube.com/watch?v=vDDucTB6mig">YouTube Video</a>
+            นี้ได้ ซึ่งจะอธิบายคอนเซปท์ของตัวเทคนิคนี้
+        </td>
+    </tr>
 </table>
